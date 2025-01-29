@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\training_pattern_biulding-2\bin\Debug\net8.0\training_pattern_biulding-2.exe
+C:\Users\Admin\source\repos\training_pattern_biulding-2\bin\Debug\net8.0\training_pattern_biulding-2.deps.json
+C:\Users\Admin\source\repos\training_pattern_biulding-2\bin\Debug\net8.0\training_pattern_biulding-2.runtimeconfig.json
+C:\Users\Admin\source\repos\training_pattern_biulding-2\bin\Debug\net8.0\training_pattern_biulding-2.dll
+C:\Users\Admin\source\repos\training_pattern_biulding-2\bin\Debug\net8.0\training_pattern_biulding-2.pdb
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.dll
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\refint\training_pattern_biulding-2.dll
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.pdb
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\training_pattern_biulding-2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\training_pattern_biulding-2\obj\Debug\net8.0\ref\training_pattern_biulding-2.dll
